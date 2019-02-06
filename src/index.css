@@ -12,3 +12,28 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
+
+.main{
+  box-shadow: 0 0 15px #888888;
+  background-color: #c3c3c3;
+  border: 2px solid blueviolet;
+}
+.temp{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+   height: 250px;
+   color: brown;
+   padding: 10px 20px;
+}
+#temp{
+  color:blueviolet;
+  background-color: bisque;
+  box-shadow: 0 0 15px #888888;
+  text-transform: uppercase;
+  font-size: 60px;   
+}
+input{
+  padding: 10px 10px;
+  border: 1px solid blueviolet;
+}
